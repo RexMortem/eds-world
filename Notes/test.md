@@ -1,5 +1,8 @@
+
 # Test
 
 aaaaaaaaa
 
-$\forall x \in X. \text{x is prime}$.
+$\forall z \in Z.$.
+
+$$$\forall Y \in Y.$
