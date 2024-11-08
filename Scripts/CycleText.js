@@ -1,6 +1,6 @@
 $(document).ready(function(){
     var titleText = $(".CycleText");
-    var titles = ["Programmer", "Academic Officer", "2nd Year CS Student"];
+    var titles = ["Programmer", "UWCS Academic Officer", "2nd Year CS Student"];
     var cyclesBeforeReset = 10;
     
     var titleI = 0;
