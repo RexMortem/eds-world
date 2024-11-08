@@ -4,10 +4,12 @@ My front-end only website hosted via GitHub Pages, which is a WIP!
 
 ## Plans for this project 
 
-This is a university project which will house: 
+This is a personal project which will house: 
 - Notes 
 - Projects 
 - Academic Stuff 
+
+I may retire this project when I graduate from university. 
 
 ## Key Technologies 
 
