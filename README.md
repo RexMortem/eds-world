@@ -5,11 +5,10 @@ My front-end only website hosted via GitHub Pages, which is a WIP!
 ## Plans for this project 
 
 This is a personal project which will house: 
-- Notes 
 - Projects 
 - Academic Stuff 
 
-I may retire this project when I graduate from university. 
+Note that the notes will be hosted on another repo soon, when I have the time to figure out Quartz. 
 
 ## Key Technologies 
 
