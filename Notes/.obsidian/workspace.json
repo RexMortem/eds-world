@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes.md",
+                "file": "Year2/CS260/Reductions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notes"
+              "title": "Reductions"
             }
           }
         ]
@@ -164,8 +164,8 @@
   },
   "active": "35bb88fb880ac7c3",
   "lastOpenFiles": [
+    "Notes.md",
     "Year1/CS130/CS130 - Module Overview.md",
-    "test.md",
-    "Notes.md"
+    "test.md"
   ]
 }
