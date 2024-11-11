@@ -1,6 +1,8 @@
-# eds-world.github.io
+# Ed's World Website
 
 My front-end only website hosted via GitHub Pages, which is a WIP!
+
+Website: [https://rexmortem.github.io/eds-world/](https://rexmortem.github.io/eds-world/)
 
 ## Plans for this project 
 
